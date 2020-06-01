@@ -5,4 +5,4 @@ When reviewing LinkedIn company/people pages, use this tool to scan the page and
 
 
 
-[Example mockup](https://drive.google.com/file/d/1ND0rH5U0Ywx5hpH-_Xo-8lvvIalKjpkU/view)
+[Example mockup](https://drive.google.com/file/d/1ND0rH5U0Ywx5hpH-_Xo-8lvvIalKjpkU/view?usp=sharing)
