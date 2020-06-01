@@ -1,2 +1,2 @@
 # glance
-Quick glance at gender breakdown on LinkedIn company pages
+glance is a Chrome extension which estimates the gender breakdown in an employee list.
