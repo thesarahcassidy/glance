@@ -9,4 +9,4 @@ When reviewing LinkedIn company/people pages, use this tool to scan the page and
 - [Closeup](https://drive.google.com/file/d/1ND0rH5U0Ywx5hpH-_Xo-8lvvIalKjpkU/view?usp=sharing)
 
 
-Help build glance by emailing @thesarahcassidy
+Help build glance by emailing [@thesarahcassidy](https://github.com/thesarahcassidy)
