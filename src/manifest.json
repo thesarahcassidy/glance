@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "glance",
+  "version": "0.1",
+  "description": "glance estimates the gender breakdown in an employee list on LinkedIn",
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": false
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.linkedin.com/*"
+      ],
+      "js": [
+        "linkedin.js"
+      ]
+    }
+  ],
+  "page_action": {
+    "default_title": "glance",
+    "default_popup": "popup.html"
+  }
+}
