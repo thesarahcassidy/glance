@@ -1,16 +1,5 @@
-const TYPICALLY_MASCULINE_NAMES = new Set([
-  "adam",
-  "eric",
-  "kevin",
-  "rob"
-]);
-
-const TYPICALLY_FEMININE_NAMES = new Set([
-  "amanda",
-  "alice",
-  "sarah",
-  "jane"
-]);
+const names_url = chrome.runtime.getURL('data/names.json')
+console.log(names_url)
 
 const guess = (name) => {
   const lowerFirstName = name.split(/\s+/)[0].toLowerCase();
