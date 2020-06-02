@@ -25,8 +25,10 @@ After making changes to the code:
 
 [1]: https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
 
-## Disclaimer, in the words of @georgebrock
+## Disclaimer
 
 > Gender identity is a complex and multifaceted thing -- certainly far more complex than checking a name against a list. The goal of this code is not to make accurate assertions about any individual's gender, but instead to provide a rough guess at the aggregate gender breakdown of the people working at a given company.
 > 
 > In addition, this prototype makes the very English-language-centric assumption that names can be broken down on spaces, and the first part is the person's given name.
+
+Thank you @georgebrock.
